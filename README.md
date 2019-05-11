@@ -1,3 +1,3 @@
 # Coursera: Practical Machine Learning 
 
-Repository for the Practical Machine Learning class, John Hopkins, Coursera.
+Repository for the Practical Machine Learning course, John Hopkins, Coursera.
